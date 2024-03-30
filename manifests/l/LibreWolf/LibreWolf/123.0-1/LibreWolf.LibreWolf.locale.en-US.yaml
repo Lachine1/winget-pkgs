@@ -1,3 +1,4 @@
+# Created using wingetcreate 1.6.1.0
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 
 PackageIdentifier: LibreWolf.LibreWolf
@@ -16,13 +17,13 @@ ShortDescription: A fork of Firefox, focused on privacy, security and freedom.
 Description: LibreWolf is designed to minimize data collection and telemetry as much as possible. This is achieved through hundreds of privacy/security/performance settings and patches. Intrusive integrated addons including updater, crashreporter, and pocket are removed too.
 Moniker: librewolf
 Tags:
-  - browser
-  - web-browser
-  - foss
-  - open-source
-  - cross-platform
-  - gecko
-  - privacy
-  - firefox-fork
+- browser
+- web-browser
+- foss
+- open-source
+- cross-platform
+- gecko
+- privacy
+- firefox-fork
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
